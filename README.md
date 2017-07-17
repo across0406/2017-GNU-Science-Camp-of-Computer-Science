@@ -19,7 +19,7 @@ As we use Numpy array to implement basic neural network, this section deals with
 
 ---------------------------------------
 
-[^1] Goki Saito, "Deep learning from scratch", 2016.
-[^2] 김의중, "인공지능, 머신러닝, 딥러닝 입문", 2016.
-[^3] 이강성, "파이썬 3 바이블", 2013.
-[^4] Philip N. Klein, "Coding The Matrix", 2013.
+[^1]: Goki Saito, "Deep learning from scratch", 2016.
+[^2]: 김의중, "인공지능, 머신러닝, 딥러닝 입문", 2016.
+[^3]: 이강성, "파이썬 3 바이블", 2013.
+[^4]: Philip N. Klein, "Coding The Matrix", 2013.
