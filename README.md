@@ -1,7 +1,7 @@
 # 2017-GNU-Science-Camp-of-Computer-Science
 
 The contents deal with basis of deep learning for GNU Science Camp of Computer Science targeting high school students.
-For preparation this contents, I referred some books to the following:
+For preparation this contents, I referred to the books to the following:
 
 - Deep learning from scratch(밑바닥부터 시작하는 딥러닝)<sup>[1]</sup>
 - 인공지능, 머신러닝, 딥러닝 입문<sup>[2]</sup>
