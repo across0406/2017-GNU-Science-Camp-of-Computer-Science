@@ -10,17 +10,21 @@ For preparation this contents, I referred some books to the following:
 
 **1. Basis of Python 3.x**
 
-This part includes basis of Python 3.x, such as input, output, for statement, if statement, and defining function, etc.
-Moreover, it is also contains basis of Numpy because the codes of neural network on our camp use Numpy library.
+This part includes basis of Python 3.x, such as output, for statement, if statement, and defining function, etc.
 
 **2. Matrix coding and library**
 
 As we use Numpy array to implement basic neural network, this section deals with using Numpy library, such as operations, drawing graph, etc.
 
+**3. Perceptron**
+
+"Deep learning from scratch" started the contents of perceptron initially for the solution of logical gate.
+
 
 ---------------------------------------
 
-[1]: Goki Saito, "Deep learning from scratch", 2016.
-[2]: 김의중, "인공지능, 머신러닝, 딥러닝 입문", 2016.
-[3]: 이강성, "파이썬 3 바이블", 2013.
-[4]: Philip N. Klein, "Coding The Matrix", 2013.
+
+>[1]: Goki Saito, "Deep learning from scratch", 2016.
+>[2]: 김의중, "인공지능, 머신러닝, 딥러닝 입문", 2016.
+>[3]: 이강성, "파이썬 3 바이블", 2013.
+>[4]: Philip N. Klein, "Coding The Matrix", 2013.
