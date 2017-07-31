@@ -14,11 +14,15 @@ This part includes basis of Python 3.x, such as output, for statement, if statem
 
 **2. Matrix coding and library**
 
-As we use Numpy array to implement basic neural network, this section deals with using Numpy library, such as operations, drawing graph, etc.
+As we use Numpy array to implement basic neural network, this section deals with using Numpy library, such as 
+operations, drawing graph, etc. So, first, we inform basic theory to students. And then, the students follow the codes 
+for this theory.
 
 **3. Perceptron**
 
-"Deep learning from scratch" started the contents of perceptron initially for the solution of logical gate.
+Most of codes are from "Deep learning from scratch". "Deep learning from scratch" started the contents of perceptron 
+initially for the solution of logical gate. Then, enter into constructing three-layer perceptron. Finally, operate 
+simple neural network for recognition MNIST dataset.
 
 
 ---------------------------------------
